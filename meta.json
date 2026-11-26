@@ -1,0 +1,25 @@
+{
+  "repo": "acunetix-premium-web-scanner",
+  "product": "Acunetix Premium Web Scanner",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "acunetix-premium-web-scanner",
+    "acunetix-web-scanner",
+    "web-security",
+    "vulnerability-scan",
+    "website-audit",
+    "security-scanner",
+    "how-to-install-acunetix-web-scanner",
+    "how-to-setup-acunetix-web-scanner",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Acunetix Premium Web Scanner"
+}
